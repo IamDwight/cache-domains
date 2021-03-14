@@ -41,6 +41,11 @@
 			"domain_files": ["hirez.txt"]
 		},
 		{
+			"name": "linuxarch",
+			"description": "Arch Linux mirrors",
+			"domain_files": ["linuxarch.txt"]
+		},
+		{
 			"name": "nexusmods",
 			"description": "Nexus mods / skyrim content",
 			"domain_files": ["nexusmods.txt"]
