@@ -5,6 +5,7 @@ wgusst-na.wargaming.net
 wgusst-eu.wargaming.net
 update-v4r4h10x.worldofwarships.com
 wgus-wotasia.wargaming.net
+wgus-woteu.wargaming.net
 dl-wot-ak.wargaming.net
 dl-wot-gc.wargaming.net
 dl-wot-se.wargaming.net 
