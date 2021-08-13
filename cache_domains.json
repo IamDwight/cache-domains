@@ -26,6 +26,16 @@
 			"domain_files": ["cityofheroes.txt"]
 		},
 		{
+			"name": "crypticstudios",
+			"description": "CDN for CrypticStudios",
+			"domain_files": ["crypticstudios.txt"]
+		},
+		{
+			"name": "cubecoders",
+			"description": "CDN for CubeCoders",
+			"domain_files": ["cubecoders.txt"]
+		},
+		{
 			"name": "daybreak",
 			"description": "Daybreak games CDN",
 			"domain_files": ["daybreak.txt"]
@@ -41,6 +51,11 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
+			"name": "google",
+			"description": "CDN for Google Play and Google software",
+			"domain_files": ["google.txt"]
+		},
+		{
 			"name": "hirez",
 			"description": "CDN for hirez",
 			"domain_files": ["hirez.txt"]
@@ -51,9 +66,9 @@
 			"domain_files": ["linuxarch.txt"]
 		},
 		{
-			"name": "nexusmods",
-			"description": "Nexus mods / skyrim content",
-			"domain_files": ["nexusmods.txt"]
+			"name": "linuxbuntu",
+			"description": "Ubuntu Linux mirrors",
+			"domain_files": ["linuxbuntu.txt"]
 		},
 		{
 			"name": "neverwinter",
@@ -61,9 +76,19 @@
 			"domain_files": ["neverwinter.txt"]
 		},
 		{
+			"name": "nexusmods",
+			"description": "Nexus mods / skyrim content",
+			"domain_files": ["nexusmods.txt"]
+		},
+		{
 			"name": "nintendo",
 			"description": "CDN for Nintendo consoles and download servers",
 			"domain_files": ["nintendo.txt"]
+		},
+		{
+			"name": "office",
+			"description": "CDN for Microsoft Office content and downloads",
+			"domain_files": ["office.txt"]
 		},
 		{
 			"name": "origin",
@@ -76,6 +101,11 @@
 			"name": "pathofexile",
 			"description": "CDN for Path Of Exile",
 			"domain_files": ["pathofexile.txt"]
+		},
+		{
+			"name": "raspberrypi",
+			"description": "CDN for RaspberryPi",
+			"domain_files": ["raspberrypi.txt"]
 		},
 		{
 			"name": "renegadex",
@@ -108,9 +138,9 @@
 			"domain_files": ["steam.txt"]
 		},
 		{
-			"name": "uplay",
-			"description": "CDN for uplay downloader",
-			"domain_files": ["uplay.txt"]
+			"name": "sto",
+			"description": "CDN for CrypticStudios",
+			"domain_files": ["sto.txt"]
 		},
 		{
 			"name": "teso",
@@ -118,9 +148,9 @@
 			"domain_files": ["teso.txt"]
 		},
 		{
-			"name": "twitch",
-			"description": "CDN for twitch games / mods and addons",
-			"domain_files": ["twitch.txt"]
+			"name": "uplay",
+			"description": "CDN for uplay downloader",
+			"domain_files": ["uplay.txt"]
 		},
 		{
 			"name": "warframe",
