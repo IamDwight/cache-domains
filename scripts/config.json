@@ -1,0 +1,42 @@
+{
+	"ips": {
+		"generic":		["10.1.0.3"]
+	},
+	"cache_domains": {
+		"default": 		"generic",
+		"apple": 		"generic",
+		"arenanet": 		"generic",
+		"blizzard": 		"generic",
+		"bsg": 			"generic",
+		"cityofheroes": 	"generic",
+		"crypticstudios": 	"generic",
+		"cubecoders": 		"generic",
+		"daybreak": 		"generic",
+		"epicgames": 		"generic",
+		"frontier": 		"generic",
+		"google": 		"generic",
+		"hirez": 		"generic",
+		"linuxarch": 		"generic",
+		"linuxbuntu": 		"generic",
+		"neverwinter": 		"generic",
+		"nexusmods": 		"generic",
+		"nintendo": 		"generic",
+		"office": 		"generic",
+		"origin": 		"generic",
+		"pathofexile": 		"generic",
+		"raspberrypi": 		"generic",
+		"renegadex": 		"generic",
+		"riot": 		"generic",
+		"rockstar": 		"generic",
+		"sony": 		"generic",
+		"square": 		"generic",
+		"steam": 		"generic",
+		"sto": 			"generic",
+		"teso": 		"generic",
+		"uplay": 		"generic",
+		"warframe": 		"generic",
+		"wargaming": 		"generic",
+		"wsus": 		"generic",
+		"xboxlive": 		"generic"
+	}
+}
