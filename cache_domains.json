@@ -61,16 +61,6 @@
 			"domain_files": ["hirez.txt"]
 		},
 		{
-			"name": "linuxarch",
-			"description": "Arch Linux mirrors",
-			"domain_files": ["linuxarch.txt"]
-		},
-		{
-			"name": "linuxbuntu",
-			"description": "Ubuntu Linux mirrors",
-			"domain_files": ["linuxbuntu.txt"]
-		},
-		{
 			"name": "neverwinter",
 			"description": "Cryptic CDN for Neverwinter",
 			"domain_files": ["neverwinter.txt"]
