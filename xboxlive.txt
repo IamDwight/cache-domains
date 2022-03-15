@@ -1,4 +1,5 @@
-dlassets.xboxlive.com
+download.xbox.com
+images-eds.xboxlive.com
 assets1.xboxlive.com
 assets2.xboxlive.com
 xboxone.loris.llnwd.net
@@ -9,5 +10,4 @@ assets1.xboxlive.com.nsatc.net
 xvcf1.xboxlive.com
 xvcf2.xboxlive.com
 d1.xboxlive.com
-download.xbox.com
-images-eds.xboxlive.com
+dlassets.xboxlive.com
