@@ -51,7 +51,7 @@ while read entry; do
 					continue
 				fi
 				parsed=$(echo $fileentry | sed -e "s/^\*\.//")
-				if grep -qx "$parsed" $outputfile; then
+				if grep -qx "  local-zone: \"${parsed}\" redirect" $outputfile; then
 					continue
 				fi
         if [[ $(head -n 1 $outputfile) != "server:" ]]; then
@@ -68,7 +68,6 @@ done <<< $(jq -r '.cache_domains | to_entries[] | .key' $path)
 
 cat << EOF
 Configuration generation completed.
-
 Please copy the following files:
 - ./${outputdir}/*.conf to /etc/unbound/unbound.conf.d/
 EOF
