@@ -3,7 +3,6 @@ psn.gst.map.fastly.net
 d1xpvrktya7brt.cloudfront.net
 sonygst.s.llnwi.net
 gst.prod.dl.playstation.net.c.footprint.net
-*.gs2.ww.prod.dl.playstation.net
 zeus.dl.playstation.net
 a0.ww.np.dl.playstation.net
 nsx.sec.np.dl.playstation.net
@@ -11,10 +10,14 @@ fau01.ps3.update.playstation.net
 b0.ww.np.dl.playstation.net
 a192.d.akamai.net
 sonycoment.vo.llnwd.net
-gs2.ww.prod.dl.playstation.net
 gs2.sonycoment.loris-e.llnwd.net
 pls.patch.station.sony.com
-#*.gs2.ww.prod.dl.playstation.net
+*.gst.sonygst.loris-e.llnwd.net
+gst.prod.dl.playstation.net
+*.dl.playstation.net
+*.dl.playstation.net.edgesuite.net
+gs2.ww.prod.dl.playstation.net
+*.gs2.ww.prod.dl.playstation.net
 *.gs2.sonycoment.loris-e.llnwd.net
 gs2-ww-prod.psn.akadns.net
 *.gs2-ww-prod.psn.akadns.net
@@ -24,7 +27,3 @@ playstation4.sony.akadns.net
 theia.dl.playstation.net
 tmdb.np.dl.playstation.net
 gs-sec.ww.np.dl.playstation.net
-*.gst.sonygst.loris-e.llnwd.net
-gst.prod.dl.playstation.net
-*.dl.playstation.net
-*.dl.playstation.net.edgesuite.net
