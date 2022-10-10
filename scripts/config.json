@@ -1,40 +1,46 @@
 {
 	"ips": {
-		"generic":	["10.0.10.15"]
+		
+
+
+           
+      		"games":	["10.0.10.16","10.0.11.17","10.0.11.18","10.0.11.19"],
+		"updates":	["10.0.11.20"]
+		"generic":	["10.0.11.15"]
 	},
 	"cache_domains": {
 		"default": 		"generic",
-		"apple": 		"generic",
-		"arenanet": 		"generic",
-		"blizzard": 		"generic",
-		"bsg": 			"generic",
-		"cityofheroes": 	"generic",
-		"crypticstudios": 	"generic",
+		"apple": 		"updates",
+		"arenanet": 		"games",
+		"blizzard": 		"games",
+		"bsg": 			"games",
+		"cityofheroes": 	"games",
+		"crypticstudios": 	"games",
 		"cubecoders": 		"generic",
 		"daybreak": 		"generic",
-		"epicgames": 		"generic",
-		"frontier": 		"generic",
-		"google": 		"generic",
-		"hirez": 		"generic",
-		"neverwinter": 		"generic",
+		"epicgames": 		"games",
+		"frontier": 		"games",
+		"google": 		"updates",
+		"hirez": 		"games",
+		"neverwinter": 		"games",
 		"nexusmods": 		"generic",
-		"nintendo": 		"generic",
-		"office": 		"generic",
-		"origin": 		"generic",
-		"pathofexile": 		"generic",
+		"nintendo": 		"games",
+		"office": 		"updates",
+		"origin": 		"games",
+		"pathofexile": 		"games",
 		"raspberrypi": 		"generic",
 		"renegadex": 		"generic",
-		"riot": 		"generic",
-		"rockstar": 		"generic",
-		"sony": 		"generic",
-		"square": 		"generic",
-		"steam": 		"generic",
+		"riot": 		"games",
+		"rockstar": 		"games",
+		"sony": 		"games",
+		"square": 		"games",
+		"steam": 		"games",
 		"sto": 			"generic",
 		"teso": 		"generic",
-		"uplay": 		"generic",
-		"warframe": 		"generic",
-		"wargaming": 		"generic",
-		"wsus": 		"generic",
-		"xboxlive": 		"generic"
+		"uplay": 		"games",
+		"warframe": 		"games",
+		"wargaming": 		"games",
+		"wsus": 		"updates",
+		"xboxlive": 		"games"
 	}
 }
