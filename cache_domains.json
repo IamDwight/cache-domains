@@ -51,11 +51,6 @@
 			"domain_files": ["frontier.txt"]
 		},
 		{
-			"name": "google",
-			"description": "CDN for Google Play and Google software",
-			"domain_files": ["google.txt"]
-		},
-		{
 			"name": "hirez",
 			"description": "CDN for hirez",
 			"domain_files": ["hirez.txt"]
