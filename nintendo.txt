@@ -1,3 +1,4 @@
+ccs.cdn.wup.shop.nintendo.com
 ccs.cdn.wup.shop.nintendo.net
 ccs.cdn.wup.shop.nintendo.net.edgesuite.net
 geisha-wup.cdn.nintendo.net
