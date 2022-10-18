@@ -15,7 +15,6 @@ p.guanjia.qq.com
 cloud.gsdk.proximabeta.com
 astat.bugly.qcloud.com
 oth.update.mdt.qq.com
-wup.imtt.qq.com:8080
 dldir1.qq.com
 guanjia.qq.com
 gameloop.mobi
