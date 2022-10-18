@@ -1,19 +1,47 @@
 {
-	"ips": {
-		"steam":	["10.10.3.10", "10.10.3.11"],
-		"origin":	"10.10.3.12",
-		"blizzard":	"10.10.3.13",
-		"windows":	"10.10.3.14",
-		"riot":		"10.10.3.15",
-		"generic":	"10.10.3.16"
-	},
-	"cache_domains": {
-		"default": 	"generic",
-		"blizzard": 	"blizzard",
-		"origin": 	"origin",
-		"riot": 	"riot",
-		"steam": 	"steam",
-		"wsus": 	"windows",
-		"xboxlive": 	"windows"
-	}
+    "ips": {
+        "adguardhome_upstream": ["tls://dns.quad9.net","https://dns.quad9.net/dns-query","tls://dns.adguard-dns.com","https://dns.adguard-dns.com/dns-query","tls://security.cloudflare-dns.com","https://security.cloudflare-dns.com/dns-query","tls://security-filter-dns.cleanbrowsing.org","https://doh.cleanbrowsing.org/doh/security-filter","https://doh.opendns.com/dns-query"],
+        "games":    ["10.0.10.18","10.0.10.19","10.0.10.20"],
+        "updates":    ["10.0.10.17"],
+        "generic":    ["10.0.10.16"]
+    },
+    "cache_domains": {
+        "default":         "generic",
+        "apple":         "updates",
+        "arenanet":         "games",
+        "blizzard":         "games",
+        "bsg":             "games",
+        "cityofheroes":     "games",
+        "crypticstudios":     "games",
+        "cubecoders":         "generic",
+        "daybreak":         "generic",
+        "epicgames":         "games",
+        "frontier":         "games",
+        "gameloop":         "games",
+        "hirez":         "games",
+        "mobilelegends":     "games",
+        "neverwinter":         "games",
+        "nexusmods":         "generic",
+        "nintendo":         "games",
+        "nvidia":         "updates",
+        "office":         "updates",
+        "origin":         "games",
+        "pathofexile":         "games",
+        "raspberrypi":         "generic",
+        "renegadex":         "generic",
+        "riot":         "games",
+        "rockstar":         "games",
+        "sony":         "games",
+        "square":         "games",
+        "steam":         "games",
+        "sto":             "generic",
+        "teso":         "generic",
+        "uplay":         "games",
+        "warframe":         "games",
+        "wargaming":         "games",
+        "wsus":         "updates",
+        "xboxlive":         "games"
+    }
 }
+
+
