@@ -1,6 +1,6 @@
 {
     "ips": {
-        "adguardhome_upstream": ["tls://dns.quad9.net","https://dns.quad9.net/dns-query","tls://dns.adguard-dns.com","https://dns.adguard-dns.com/dns-query","tls://security.cloudflare-dns.com","https://security.cloudflare-dns.com/dns-query","tls://security-filter-dns.cleanbrowsing.org","https://doh.cleanbrowsing.org/doh/security-filter","https://doh.opendns.com/dns-query"],
+        "adguardhome_upstream": ["tls://dns.adguard-dns.com","https://dns.adguard-dns.com/dns-query","tls://security.cloudflare-dns.com","https://security.cloudflare-dns.com/dns-query","tls://dns.quad9.net","https://dns11.quad9.net/dns-query","tls://dns11.quad9.net","https://dns.quad9.net/dns-query","https://doh.opendns.com/dns-query"],
         "games":    ["10.0.10.18","10.0.10.19","10.0.10.20"],
         "updates":    ["10.0.10.17"],
         "generic":    ["10.0.10.16"]
