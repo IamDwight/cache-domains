@@ -86,3 +86,4 @@ cache4-ord1.steamcontent.com
 cache5-ord1.steamcontent.com
 cache3-iad1.steamcontent.com
 cache6-iad1.steamcontent.com
+steamdeck-atomupd.steamos.cloud
