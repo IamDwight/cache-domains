@@ -28,3 +28,4 @@ download.sysinternals.com
 go.microsoft.com
 *.bg.v4.a.dl.ws.microsoft.com
 bg.v4.a.dl.ws.microsoft.com
+windowsupdate.microsoft.com
